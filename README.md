@@ -7,7 +7,7 @@ The first completed module, BounceGen, generates realistic bouncing-ball animati
 The toolkit is designed to grow with additional modules already planned in the interface, including WalkGen, OverlapGen, ArcAssist, FollowThru, and Timing. The goal is to reduce repetitive technical work so animators can focus more on creativity and storytelling.
 
 ## Requirements
-- Autodesk Maya 2020 or later (Windows or macOS)
+- Autodesk Maya 2023 or later (Windows)
 
 ## Installation
 1. Download the latest release from the [Releases page](../../releases).
